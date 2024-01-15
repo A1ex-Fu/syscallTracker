@@ -1,7 +1,7 @@
 # syscallTracker
 
 Here are some (brief) directions on how to run the syscall tracker:
-1. compile program you are trying to run (e.g. gcc -o test_program test_program.c)
+1. compile program you are trying to track the syscalls of (e.g. gcc -o test_program test_program.c)
 2. compile print_syscall.c (gcc -o print_syscall print_syscall.c)
 3. run bash script: "./getSyscalls.sh ./testProgram"
 4. view contents of test_summarize.txt to see final results 🎉
