@@ -1,18 +1,1 @@
-9 (mmap), used 8 times
-257 (openat), used 4 times
-3 (close), used 4 times
-17 (pread64), used 4 times
-12 (brk), used 3 times
-262 (newfstatat), used 3 times
-10 (mprotect), used 3 times
-158 (arch_prctl), used 2 times
-0 (read), used 2 times
-1 (write), used 2 times
-21 (access), used 1 times
-218 (set_tid_address), used 1 times
-273 (set_robust_list), used 1 times
-334 (), used 1 times
-302 (prlimit64), used 1 times
-11 (munmap), used 1 times
-318 (getrandom), used 1 times
-231 (exit_group), used 1 times
+
