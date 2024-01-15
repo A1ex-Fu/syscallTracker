@@ -9,6 +9,7 @@ Here are some (brief) directions on how to run the syscall tracker:
 Potentially, there may be a syscall that was not covered in syscalls.csv. In that case, note its syscall number and consult a list of syscalls online
 
 Here is a quick rundown of what the files do:
+
       getSyscalls.sh - bash script to run the whole program (need to compile print_syscall.c first)
       
       print_syscall.c - prints out the syscall numbers as the syscalls are made
